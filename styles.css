@@ -2,8 +2,44 @@ body{
     background-color: #CCCCFF;
 }
 
+div{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/* .header{
+    padding: 30px;
+    text-align: center;
+}
+
+.about {
+    padding: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.core{
+    padding: 30px;
+    font-size: 18px;
+}
+
+.footer{
+    padding: 30px;
+    font-size: px;
+} */
+
 h1,h2 {
     color: #800080;
+}
+
+.titleLink {
+    color: #800080;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #5D3FD3;
 }
 
 .block{
